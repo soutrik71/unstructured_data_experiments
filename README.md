@@ -15,3 +15,23 @@ https://github.com/Layout-Parser/layout-parser/blob/main/src/layoutparser/models
 https://github.com/Layout-Parser/layout-parser/issues/168
 ### pdf to image for large pdfs
 https://stackoverflow.com/questions/66636441/pdf2image-library-failing-to-read-pdf-signed-using-docusign/74313286#74313286
+
+##__GPT4O___
+
+https://oai.azure.com/portal/0f7c567d04134a9fa9b99f6d834e12b0/chat?tenantid=cef04b19-7776-4a94-b89b-375c77a8f936
+
+| Group   | Atividade                              | SLA              |  
+|---------|-----------------------------------------|------------------|  
+| **Group 1** |                                       |                  |  
+| CORE    | Project / Process Management            | From 5 to 10 days|  
+|         | Application development / integrations  |                  |  
+| **Group 2** |                                       |                  |  
+| TREND   | data scientist                           | From 5 to 20 days|  
+|         | PowerBI DAX/M developer                  |                  |  
+|         | Data engineer                            |                  |  
+|         | Cloud Solutions Architect                |                  |  
+|         | Elastic Search Developer                 |                  |  
+| **Group 3** |                                       |                  |  
+| SCARCE  | Outsystems developer                     | From 5 to 25 days|  
+|         | Perl Developer, Python                   |                  |  
+|         | OTRS Consultant (Perl)                   |                  |  
